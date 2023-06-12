@@ -1,0 +1,15 @@
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\bin\Debug\net6.0\LINQEruption.exe
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\bin\Debug\net6.0\LINQEruption.deps.json
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\bin\Debug\net6.0\LINQEruption.runtimeconfig.json
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\bin\Debug\net6.0\LINQEruption.dll
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\bin\Debug\net6.0\LINQEruption.pdb
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\obj\Debug\net6.0\LINQEruption.csproj.AssemblyReference.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\obj\Debug\net6.0\LINQEruption.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\obj\Debug\net6.0\LINQEruption.AssemblyInfoInputs.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\obj\Debug\net6.0\LINQEruption.AssemblyInfo.cs
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\obj\Debug\net6.0\LINQEruption.csproj.CoreCompileInputs.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\obj\Debug\net6.0\LINQEruption.dll
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\obj\Debug\net6.0\refint\LINQEruption.dll
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\obj\Debug\net6.0\LINQEruption.pdb
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\obj\Debug\net6.0\LINQEruption.genruntimeconfig.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\ORMs\LINQEruption\obj\Debug\net6.0\ref\LINQEruption.dll
